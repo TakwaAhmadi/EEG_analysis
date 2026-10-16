@@ -1,6 +1,10 @@
 <div align="center">
 
 # 🧠 NeuroStress Control Room
+## Author
+
+Takwa Ahmadi
+École Polytechnique de Tunisie (EPT)
 
 ### EEG-Based Stress Detection Platform
 
